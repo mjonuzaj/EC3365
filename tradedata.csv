@@ -1,49 +1,49 @@
-Country,Import ,Export,,
-United States of America,70366,112217,,
-Germany,78109,56818,,
-China,45227,22311,,
-Netherlands,46931,39046,,
-France,40814,40378,,
-Belgium,28211,18745,,
-Norway,21347,6089,,
-Italy,24010,18869,,
-Spain,31302,16115,,
-Ireland,21788,34034,,
-Poland,12799,6871,,
-Switzerland,11657,19035,,
-Turkey,10352,7812,,
-Canada,7193,9999,,
-Japan,14163,13531,,
-India,10898,6926,,
-Sweden,9096,11134,,
-Australia,5255,10786,,
-Singapore,5155,9598,,
-South Korea,5078,8170,,
-Denmark,6354,6573,,
-Russia,6526,5916,,
-Czech Republic,6263,3097,,
-South Africa,4409,4734,,
-Saudi Arabia,2764,6186,,
-Portugal,5912,2370,,
-Austria,4717,3088,,
-Thailand,4302,1821,,
-Greece,3930,1966,,
-Luxembourg,2659,2961,,
-Hungary,3484,2118,,
-Finland,2972,2599,,
-Brazil,2406,3139,,
-Taiwan,3669,1825,,
-Romania,2737,2040,,
-Malaysia,2266,2330,,
-Mexico,2106,2263,,
-Slovakia,2673,847,,
-Egypt,1042,1985,,
-Pakistan,1786,1130,,
-New Zealand,1246,1474,,
-Indonesia,1368,1342,,
-Cyprus,1417,1007,,
-Morocco,1332,1004,,
-Iceland,1196,657,,
-Malta,985,797,,
-Chile,852,907,,
-Lithuania,902,677,,
+Country,Import,Export
+United States of America,70366,112217
+Germany,78109,56818
+China,45227,22311
+Netherlands,46931,39046
+France,40814,40378
+Belgium,28211,18745
+Norway,21347,6089
+Italy,24010,18869
+Spain,31302,16115
+Ireland,21788,34034
+Poland,12799,6871
+Switzerland,11657,19035
+Turkey,10352,7812
+Canada,7193,9999
+Japan,14163,13531
+India,10898,6926
+Sweden,9096,11134
+Australia,5255,10786
+Singapore,5155,9598
+South Korea,5078,8170
+Denmark,6354,6573
+Russia,6526,5916
+Czech Republic,6263,3097
+South Africa,4409,4734
+Saudi Arabia,2764,6186
+Portugal,5912,2370
+Austria,4717,3088
+Thailand,4302,1821
+Greece,3930,1966
+Luxembourg,2659,2961
+Hungary,3484,2118
+Finland,2972,2599
+Brazil,2406,3139
+Taiwan,3669,1825
+Romania,2737,2040
+Malaysia,2266,2330
+Mexico,2106,2263
+Slovakia,2673,847
+Egypt,1042,1985
+Pakistan,1786,1130
+New Zealand,1246,1474
+Indonesia,1368,1342
+Cyprus,1417,1007
+Morocco,1332,1004
+Iceland,1196,657
+Malta,985,797
+Chile,852,907
+Lithuania,902,677
